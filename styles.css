@@ -1039,7 +1039,7 @@ footer .navbar {
   }
 
   .feature-content {
-    padding: 25px 110px;
+    padding: 50px 110px;
   }
 
   .illustration-1,
@@ -1060,20 +1060,24 @@ footer .navbar {
     padding: 20px;
   }
 
-  input {
-    width: 85%;
-  }
-
   .msg-error {
-    position: absolute;
     font-size: 0.9rem;
-    top: 45px;
-    left: 54px;
-    padding: 5px 0 5px 10px;
-    width: 84.75%;
+    width: 99.6%;
   }
 
   .icon-error {
-    right: 70px;
+    right: 30px;
+  }
+
+  .more-info {
+    margin: 20px auto;
+  }
+
+  .footer-bookmark {
+    margin-left: 100px;
+  }
+
+  .footer-navbar {
+    margin-right: 120px;
   }
 }
